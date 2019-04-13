@@ -1,3 +1,3 @@
-# c_and_cpp
+# ReadMe
 
 C program and C++ program for practice :)
